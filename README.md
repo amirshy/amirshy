@@ -43,6 +43,6 @@ A dynamic website built using **jQuery**, **.NET**, and **SQL Server**, featurin
 
 ## 📫 Contact Me <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="26" style="vertical-align:middle; margin-left:5px"/>  
 
-- 📧 Email: **amirizadiproggraming@gmail.com** 
+- 📧 Email:amirizadiproggramer@gmail.com ** 
 
 ---
