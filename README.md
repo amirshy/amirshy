@@ -8,13 +8,14 @@
 ## 🛠 Skills & Technologies <img src="https://cdn-icons-png.flaticon.com/512/2103/2103626.png" width="26" style="vertical-align:middle; margin-left:5px"/>  
 
 **Frontend Development:**  
-- HTML5 , CSS3 , Tailwind CSS , JavaScript (ES6+) , jQuery , React.js , Redux 
+- HTML5 , CSS3 , Tailwind CSS , JavaScript (ES6+) , jQuery , React.js , Next.js , Redux  
 
 **Backend Development:**  
 - .NET Framework & .NET Core  
 
 **Database Management:**  
 - SQL Server (queries, stored procedures, performance optimization)  
+- MongoDB (schema design, aggregation, connection handling with Mongoose)
 
 **Version Control:**  
 - Git (branching, merging, collaborative workflows)  
@@ -38,11 +39,15 @@ My goals include:
 A dynamic website built using **jQuery**, **.NET**, and **SQL Server**, featuring database-driven content and interactive user interfaces.  
 🔗 [amirizadiproject.ir](http://amirizadiproject.ir)  
 
----
+### **Fitland Shop (Next.js & MongoDB)**  
+An e-commerce platform developed with **Next.js**,**MongoDB**, providing a fast, responsive shopping experience.  
+🔗 [fitlandshop.runflare.run](https://fitlandshop.runflare.run/)  
 
+---
 
 ## 📫 Contact Me <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="26" style="vertical-align:middle; margin-left:5px"/>  
 
-- 📧 Email:amirizadiproggramer@gmail.com ** 
+- 📧 Email: **amirizadiproggramer@gmail.com**  
 
 ---
+
