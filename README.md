@@ -8,7 +8,7 @@
 ## 🛠 Skills & Technologies <img src="https://cdn-icons-png.flaticon.com/512/2103/2103626.png" width="26" style="vertical-align:middle; margin-left:5px"/>  
 
 **Frontend Development:**  
-- HTML5 , CSS3 , Tailwind CSS , JavaScript (ES6+) , jQuery , React.js , Next.js , Redux  
+- HTML5 , CSS3 , Tailwind CSS , JavaScript (ES6+) , jQuery , React.js , Next.js ,  Redux  ,Typescript 
 
 **Backend Development:**  
 - .NET Framework & .NET Core  
