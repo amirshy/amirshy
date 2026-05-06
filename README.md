@@ -39,9 +39,7 @@ My goals include:
 A dynamic website built using **jQuery**, **.NET**, and **SQL Server**, featuring database-driven content and interactive user interfaces.  
 🔗 [amirizadiproject.ir](http://amirizadiproject.ir)  
 
-### **Fitland Shop (Next.js & MongoDB)**  
-An e-commerce platform developed with **Next.js**,**MongoDB**, providing a fast, responsive shopping experience.  
-🔗 [fitlandshop.runflare.run](https://fitlandshop.runflare.run/)  
+
 
 ---
 
